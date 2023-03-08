@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Acrom Bold'; /* 700 */
+    src: url(./libs/font/ChronicaPro-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Acrom ExtraBold';
+    src: url(./libs/font/ChronicaPro-ExtraBold.ttf);
+}
+
+@font-face {
+    font-family: 'Acrom Medium'; /* 500 */
+    src: url(./libs/font/ChronicaPro-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Acrom Regular'; /* 400 */
+    src: url(./libs/font/ChronicaPro-Regular.ttf);
+}
