@@ -126,7 +126,7 @@ window.addEventListener('load', function (e) {
     $(window).on('scroll', function () {
         var scroll = $(this).scrollTop()
 
-        if (scroll >= 200) {
+        if (scroll >= 50) {
             $('.header_top').addClass('sticy')
             $('.move-to-top').removeClass('hide')
         } else {
