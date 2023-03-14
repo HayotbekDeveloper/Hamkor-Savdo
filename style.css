@@ -208,8 +208,17 @@ header .header_top.sticy .navbar-brand:first-of-type{
     display: block;
 }
 
+header .header_top .navbar .navbar-collapse .navbar-nav{
+    background-color: #5A3089;
+    padding: 10px 10px;
+}
+
 header .header_top.sticy .navbar .navbar-collapse .navbar-nav .nav-item:not(header .header_top.sticy .navbar .navbar-collapse .navbar-nav .nav-item:last-of-type){
     border-right: 2px solid #5A3089;
+}
+
+header .header_top.sticy .navbar .navbar-collapse .navbar-nav{
+    background-color: unset;
 }
 
 header .header_top.sticy .navbar .navbar-collapse .navbar-nav .nav-item .nav-link,
